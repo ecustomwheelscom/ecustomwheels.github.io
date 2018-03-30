@@ -1,0 +1,690 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201709 will be lost/reset.
+# Last config file used to build this data file was /home/y4eqn47/tmp/awstats/awstats.midtnlawncare.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2672                
+POS_VISITOR 14222               
+POS_DAY 19650               
+POS_DOMAIN 3420                
+POS_LOGIN 4000                
+POS_ROBOT 4155                
+POS_WORMS 4459                
+POS_EMAILSENDER 4590                
+POS_EMAILRECEIVER 4733                
+POS_SESSION 20342               
+POS_SIDER 20490               
+POS_FILETYPES 4868                
+POS_DOWNLOADS 5056                
+POS_OS 5104                
+POS_BROWSER 5342                
+POS_SCREENSIZE 6063                
+POS_UNKNOWNREFERER 6137                
+POS_UNKNOWNREFERERBROWSER 6534                
+POS_ORIGIN 6793                
+POS_SEREFERRALS 6929                
+POS_PAGEREFS 7093                
+POS_SEARCHWORDS 7304                
+POS_KEYWORDS 7456                
+POS_MISC 2336                
+POS_ERRORS 7515                
+POS_CLUSTER 3856                
+POS_SIDER_404 7606                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171001114810 1 0 10134827757268
+FirstTime 0
+LastTime 20170930080309
+LastUpdate 20171002052038 1 0 0 0 0
+TotalVisits 163                 
+TotalUnique 139                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 140                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 40882 7 15 178434
+1 8 8 28568 12 39 1097175
+2 8 8 28568 10 51 243188
+3 5 5 26598 8 82 2854482
+4 11 11 39281 37 44 244604
+5 8 8 37311 5 15 38212
+6 6 6 21426 7 22 107284
+7 9 10 91566 12 23 40964
+8 7 7 42483 5 17 36054
+9 19 41 2063158 5 11 8608
+10 5 5 35341 4 6 7675
+11 11 11 74253 10 68 491911
+12 11 11 39281 13 20 100001
+13 8 8 28568 6 14 151082
+14 16 18 273153 13 37 76953
+15 3 3 10713 5 138 1028532
+16 8 8 37311 11 25 1037018
+17 2 2 7142 2 25 200214
+18 38 38 132488 17 52 1457451
+19 7 7 42483 74 437 5974873
+20 5 5 52827 5 36 221658
+21 19 41 2067372 125 155 909773
+22 2 2 3571 3 45 301147
+23 5 5 17855 6 10 124066
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+us 90 136 4540422
+gb 26 26 98018
+fr 19 19 76592
+ca 18 18 166544
+de 11 11 39281
+nl 10 10 35710
+ru 9 9 49625
+ro 7 7 24997
+zz 6 6 21426
+hk 4 4 14284
+it 4 4 14284
+md 4 4 14284
+se 4 4 14284
+mu 3 3 10713
+cn 2 2 7142
+cl 2 2 7142
+sk 1 1 3571
+kn 1 1 3571
+gr 1 1 12314
+ua 1 1 3571
+uz 1 1 3571
+lv 1 1 3571
+eu 1 1 3571
+kr 1 1 3571
+in 1 1 3571
+cr 1 1 3571
+jp 0 1 59427
+il 1 1 3571
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bot[\s_+:,\.\;\/\\-] 614 11502516 20170930063426 0
+googlebot 307 1860154 20170930085944 0
+bingpreview 41 3340926 20170929032014 0
+googlebot\-image 1 81966 20170924125225 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+js 18 166688 0 0
+jpg 13 3514991 0 0
+eot 1 60744 0 0
+html 227 1226534 0 0
+css 16 213336 0 0
+xml 1 3129 0 0
+woff2 1 56777 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+Unknown 42 42
+macosx 7 7
+linux 6 6
+winnt 3 2
+linuxandroid 1 1
+win8 1 1
+win8.1 24 2
+ios_iphone 24 2
+win2000 1 1
+macosx9 1 1
+win2003 9 7
+win7 32 32
+winlong 5 5
+winxp 121 121
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 36
+chrome39.0.2171.95 17 17
+chrome56.0.2924.87 1 1
+chrome45.0.2454.94 1 1
+chrome37.0.2062.120 2 2
+Unknown 3 3
+firefox48.0 1 1
+firefox53.0 3 3
+msie8.0 4 4
+msie9.0 2 2
+firefox3.6.3 1 1
+opera8.50 3 3
+chrome57.0.2987.133 1 1
+chrome58.0.3029.96 1 1
+firefox7.0.1 110 110
+chrome58.0.3029.81 1 1
+firefox40.1 3 3
+msie11.0 24 2
+firefox26.0 2 2
+netscape 17 17
+chrome34.0.1847.131 1 1
+chrome50.0.2665.89 1 1
+mozilla 23 23
+firefox33.0 1 1
+msie10.0 1 1
+msie7.0 9 7
+safari5.3.8 1 1
+safari10.0 24 2
+chrome38.0.2125.111 1 1
+opera36.0.2130.32 1 1
+chrome55.0.2883.87 1 1
+chrome58.0.3029.110 6 6
+chrome51.0.2704.79 1 0
+msie6.0 4 4
+firefox32.0 1 1
+chrome35.0.1916.153 1 1
+chrome41.0.2228.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_ips-agent) 20170916095651
+Python/3.6_aiohttp/2.2.5 20170920055238
+python-requests/2.8.1 20170901224414
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170923211649
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~buzzstream-tools-hrd) 20170916005228
+Mozilla 20170914185605
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~buzzstream-tools-hrd) 20170916005228
+Python/3.6_aiohttp/2.2.5 20170920055238
+python-requests/2.8.1 20170901224414
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 188 190
+From1 6 6
+From2 4 5
+From3 4 4
+From4 28 72
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 3 3
+bing 1 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://burger-imperia.com 2 2
+http://www.marinetraffic.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 422 145797
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 178
+/social/upload.php 1 -
+/whitehouse/grass-cutting.html 2 -
+/okolice-ilawa/chat/upload.php 1 -
+/radiodalmatino/temp/error.php 1 -
+/community/chat/temp/error.php 1 -
+/how-to-install-flashchat-free/upload.php 1 -
+/painel/scripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/blog-chat/chat/temp/error.php 1 -
+/chat-stjepkovica/upload.php 1 -
+/o/BhGCe/forums.e-mpire.com/chat/temp/error.php 1 -
+/tinybrowser/upload.php 1 -
+/joomla/robots.txt 1 -
+/social/temp/error.php 1 -
+/LICENSE.php 1 -
+/okolice-ilawa/chat/temp/error.php 1 -
+/xb9987.php 1 -
+/radiodalmatino/upload.php 1 -
+/robots.txt 130 -
+/cchat/chat/temp/error.php 1 -
+/haces/temp/error.php 1 -
+/sohbet/upload.php 1 -
+/forum/chat/upload.php 1 -
+/xmlrpc.php 2 -
+/static/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/websci/radio/radiochat/upload.php 1 -
+/FlashChat/temp/error.php 1 -
+/flashchat-2/upload.php 1 -
+/exploit/description/temp/error.php 1 -
+/flikQ/rocketeercms/blob/master/themes/admin/assets/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/xfchat/temp/error.php 1 -
+//wp-content/plugins/woocommerce-products-designer/readme.txt 2 -
+/chat-sem-registo/temp/error.php 1 -
+/FlashChat_v6.0.8_/chat/temp/error.php 1 -
+/chat55/upload.php 1 -
+/wordpress/ 1 -
+/krd.txt 2 -
+/chat/temp/error.php 2 -
+/oldhickory/grass-cutting.html 3 -
+/FlashChat_v608/chat/upload.php 1 -
+/music-search/upload.php 1 -
+//license.php 1 -
+/Chat/upload.php 1 -
+/roommate/flash_chat/upload.php 1 -
+/js/tinymce/plugins/tinybrowser/upload.php 1 -
+/topic/page/temp/error.php 1 -
+/product-category/clothing/ 1 -
+/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/cms/chat/temp/error.php 1 -
+/mp3/list/temp/error.php 1 -
+/joomla/administrator/index.php 1 -
+/blog-chat/chat/upload.php 1 -
+/e107_plugins/onlineinfo_menutemp/error.php 1 -
+/chat-stjepkovica/temp/error.php 1 -
+/temp/error.php 1 -
+/blog/ 1 -
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/xfchat/upload.php 1 -
+/m/video/temp/error.php 1 -
+/wwwroot/addons/tinymce/plugins/tinybrowser/upload.php 1 -
+/haces/upload.php 1 -
+/license.txt 1 -
+/page/video/upload.php 1 -
+/Tchate/flashchat/upload.php 1 -
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 1 -
+/Chat/Chat/upload.php 1 -
+/blog-chat/upload.php 1 -
+/public/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/administrator/ 1 -
+/islamski-chat/upload.php 1 -
+/community/chat/upload.php 1 -
+/wp-content/uploads/settingsimages/xb9987.php 1 -
+//wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/shbt/temp/error.php 1 -
+/tinybrowser/tree/tinybrowser/upload.php 1 -
+/chatroom/temp/error.php 1 -
+/tutaf/temp/error.php 1 -
+/deface_flashchat/upload.php 1 -
+/e-dinar-chat/temp/error.php 1 -
+/radio/radiochat/temp/error.php 1 -
+/e-dinar-chat/upload.php 1 -
+/upload.php 1 -
+/Tchate/flashchat/temp/error.php 1 -
+/jingyan/temp/error.php 1 -
+//wp-content/plugins/estatik/license.txt 1 -
+/m/video/upload.php 1 -
+/FlashChat_v608/chat/temp/error.php 1 -
+/scripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/o/BhGCe/forums.e-mpire.com/chat/upload.php 1 -
+/sohbet/temp/error.php 1 -
+/pleasantview/grass-cutting.html 2 -
+/live/chat/upload.php 1 -
+/foro/chat/temp/error.php 1 -
+/admin/lib/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/roommate/flash_chat/temp/error.php 1 -
+/Association/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 1 -
+/search/temp/error.php 1 -
+/vid/watch/temp/error.php 1 -
+/baixar/temp/error.php 1 -
+/wp-login.php 2 -
+/blog-chat/temp/error.php 1 -
+//wp-content/plugins/wp-mobile-detector/readme.txt 1 -
+/websci/radio/radiochat/temp/error.php 1 -
+/contact_me.php 101 http://midtnlawncare.com/
+/chatroom/upload.php 1 -
+/exploits/28709/upload.php 1 -
+/forums/chat/upload.php 1 -
+/FlashChat/upload.php 1 -
+/tag/flashchat-v6-0-8/temp/error.php 1 -
+//wp-content/plugins/website-contact-form-with-file-upload/readme.txt 1 -
+/blog/robots.txt 1 -
+//wp-content/plugins/wpmarketplace/readme.txt 1 -
+/topic/page/upload.php 1 -
+/Chat/Chat/temp/error.php 1 -
+/m/temp/error.php 1 -
+/projects/bilardII/resources/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/cchat/chat/upload.php 1 -
+/flashchat-2/temp/error.php 1 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/tag/flashchat-v6-0-8/upload.php 1 -
+/radiopoljubac/posts/temp/error.php 1 -
+/chat/chat/temp/error.php 1 -
+/radiopoljubac/posts/upload.php 1 -
+/tutaf/upload.php 1 -
+/search/upload.php 1 -
+/music-search/temp/error.php 1 -
+/how-to-install-flashchat-free/temp/error.php 1 -
+/e107_plugins/onlineinfo_menuupload.php 1 -
+/contact/ 1 -
+/~duchen/chat/upload.php 1 -
+/public/chat/temp/error.php 1 -
+//wp-content/plugins/downloads-manager/readme.txt 1 -
+/smf/chat/upload.php 2 -
+/shbt/upload.php 1 -
+/php/tinybrowser/upload.php 1 -
+/bd/search 1 -
+/cat-bin/tools/login/lib/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/chat-bebica/temp/error.php 1 -
+/live/chat/temp/error.php 1 -
+/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/forums/chat/temp/error.php 1 -
+/chat/chat/upload.php 1 -
+/wp-content/uploads/settingsimages/up89.php 1 -
+/smf/chat/temp/error.php 2 -
+/assets/modules/evogallery/js/uploadify/uploadify.php 1 -
+/board/chat/upload.php 1 -
+/downloader 1 -
+/islamski-chat/temp/error.php 1 -
+/mtjuliet/grass-cutting.html 2 -
+/chat55/temp/error.php 1 -
+/m/upload.php 1 -
+/exploit/description/upload.php 1 -
+/baixar/upload.php 1 -
+/index.php 2 -
+/cms/chat/upload.php 1 -
+/foro/chat/upload.php 1 -
+/exploits/28709/temp/error.php 1 -
+/~duchen/chat/temp/error.php 1 -
+/deface_flashchat/temp/error.php 1 -
+/flashchat/chat/temp/error.php 1 -
+/whitescreek/grass-cutting.html 3 -
+/mp3/list/upload.php 1 -
+/vid/watch/upload.php 1 -
+/public/chat/upload.php 1 -
+/chat-bebica/upload.php 1 -
+/page/video/temp/error.php 1 -
+/flashchat/chat/upload.php 1 -
+/FlashChat_v6.0.8_/chat/upload.php 1 -
+/chat-sem-registo/upload.php 1 -
+/board/chat/temp/error.php 1 -
+/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 1 -
+//wp-content/plugins/addblockblocker/readme.txt 1 -
+/jingyan/upload.php 1 -
+//wp-content/plugins/delete-all-comments/readme.txt 1 -
+/wp-admin 1 http://midtnlawncare.com
+/tinymce_pt/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/public/javascripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/forum/chat/temp/error.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 140
+104.192.74.38 34 34 118204 20170914185605
+158.69.26.144 13 13 148689 20170923211650
+69.58.178.57 10 10 121052 20170916095651
+38.100.21.61 7 9 232271 20170920141154
+163.172.4.153 5 5 17855 20170929031020
+51.15.63.98 3 3 10713 20170927075032
+155.133.82.119 3 3 10713 20170930041325
+84.19.181.25 3 3 10713 20170921044939
+23.129.64.18 2 2 7142 20170911111221
+171.25.193.20 2 2 7142 20170915071444
+178.33.54.161 2 2 7142 20170918190830
+108.61.166.195 2 2 24628 20170904112657
+23.129.64.15 2 2 7142 20170911133450
+204.44.65.210 2 2 24628 20170930080309
+89.234.157.254 2 2 7142 20170919190250
+199.249.223.64 2 2 7142 20170913033214
+104.238.248.15 2 2 24628 20170913202749
+178.20.55.18 2 2 7142 20170921044611
+51.255.202.66 2 2 7142 20170913075938
+173.208.248.90 2 2 24628 20170913201931
+5.254.79.66 2 2 7142 20170915181521
+37.187.129.166 2 2 7142 20170918235922
+71.203.251.242 2 24 1908366 20170907090631
+68.52.79.29 2 24 1904399 20170911215730
+178.17.170.135 2 2 7142 20170913213820
+223.229.197.143 1 1 3571 20170918094715
+107.178.194.119 1 1 3571 20170916005228
+213.136.74.184 1 1 3571 20170915045709
+144.217.167.240 1 1 3571 20170918104923
+87.118.122.30 1 1 3571 20170914032708
+188.120.232.81 1 1 3571 20170922093027
+97.74.237.196 1 1 3571 20170926153649
+81.138.72.149 1 1 3571 20170908213246
+185.29.8.132 1 1 3571 20170905050813
+93.115.95.205 1 1 3571 20170905120744
+52.89.134.146 1 1 3571 20170914075015
+96.64.149.101 1 1 3571 20170921121618
+104.244.74.78 1 1 3571 20170922061651
+65.19.167.132 1 1 3571 20170911064324
+94.142.242.84 1 1 3571 20170919072551
+142.44.166.241 1 1 3571 20170904122951
+5.196.1.129 1 1 3571 20170903163325
+137.74.73.179 1 1 3571 20170927084003
+158.69.83.25 1 1 3571 20170928014111
+51.15.57.79 1 1 3571 20170905132927
+51.15.70.13 1 1 3571 20170911090938
+46.183.218.199 1 1 3571 20170913213410
+185.87.185.45 1 1 3571 20170907124333
+93.115.95.201 1 1 3571 20170919131900
+144.217.161.119 1 1 3571 20170912162257
+103.10.197.50 1 1 3571 20170907083442
+139.227.145.201 1 1 3571 20170913001043
+171.25.193.25 1 1 3571 20170914002336
+104.192.0.58 1 1 3571 20170909042132
+163.172.136.101 1 1 3571 20170919132955
+178.79.137.176 1 1 0 20170901224414
+37.220.35.202 1 1 3571 20170919021045
+66.78.21.116 1 1 3571 20170928050623
+62.219.3.47 1 1 3571 20170903020749
+92.27.54.165 1 1 3571 20170913141906
+190.10.8.50 1 1 3571 20170913044114
+216.69.191.98 1 1 12314 20170915051554
+193.70.89.19 1 1 3571 20170923095746
+185.188.182.33 1 1 3571 20170921074630
+106.159.95.52 0 1 59427 
+154.16.149.35 1 1 3571 20170903020114
+137.74.169.241 1 1 3571 20170904193255
+95.211.230.94 1 1 3571 20170913112429
+178.17.174.32 1 1 3571 20170907171328
+85.74.118.6 1 1 12314 20170919034031
+192.160.102.164 1 1 3571 20170928094640
+77.220.213.169 1 1 3571 20170910003111
+51.255.69.109 1 1 12314 20170921115813
+51.15.60.62 1 1 3571 20170902011101
+51.15.34.210 1 1 3571 20170903142432
+82.211.19.143 1 1 3571 20170904061258
+154.16.160.57 1 1 3571 20170911131809
+163.172.223.200 1 1 3571 20170907163235
+23.129.64.11 1 1 3571 20170921011351
+195.123.212.118 1 1 3571 20170911140259
+5.188.211.24 1 1 12314 20170907161727
+87.118.122.50 1 1 3571 20170913085940
+34.212.119.96 1 1 3571 20170908015245
+62.210.129.246 1 1 3571 20170923165442
+91.223.82.156 1 1 3571 20170902145351
+91.221.57.129 1 1 3571 20170919193959
+94.177.123.116 1 1 3571 20170913174442
+139.227.144.142 1 1 3571 20170906163513
+199.249.223.75 1 1 3571 20170901072412
+185.100.85.101 1 1 3571 20170903061657
+163.172.151.250 1 1 3571 20170911204947
+46.165.223.217 1 1 3571 20170921235920
+198.96.155.3 1 1 3571 20170924134723
+78.129.137.28 1 1 3571 20170911074209
+151.80.238.152 1 1 3571 20170917233833
+46.0.193.128 1 1 3571 20170906052649
+154.16.123.151 1 1 3571 20170923110803
+163.172.171.163 1 1 3571 20170911123706
+176.31.45.3 1 1 3571 20170919044240
+198.50.200.134 1 1 3571 20170921040005
+198.167.223.38 1 1 3571 20170901104846
+137.74.167.96 1 1 3571 20170902161857
+121.169.194.188 1 1 3571 20170917023910
+23.129.64.12 1 1 3571 20170910132144
+185.165.168.229 1 1 3571 20170904125834
+212.47.227.114 1 1 3571 20170908051846
+54.72.209.70 2 2 24628 20170905101615
+193.15.16.4 1 1 3571 20170901062509
+5.196.66.162 1 1 3571 20170926050837
+89.31.57.5 1 1 3571 20170905054021
+104.155.173.97 1 1 12314 20170908190331
+62.210.37.82 2 2 7142 20170919141430
+146.185.177.103 1 1 3571 20170907003350
+217.182.76.240 1 1 3571 20170915162937
+51.15.40.233 1 1 3571 20170924184314
+159.203.81.93 1 1 12314 20170918094716
+93.115.95.204 1 1 3571 20170913040218
+93.174.93.133 1 1 3571 20170912041426
+185.38.14.215 1 1 3571 20170909010600
+199.249.223.60 1 1 3571 20170913110251
+46.17.97.112 2 2 7142 20170921112243
+179.61.173.202 1 1 3571 20170919142912
+93.115.95.207 1 1 3571 20170912122756
+54.171.144.232 1 1 3571 20170920055238
+193.70.39.41 2 2 7142 20170916183643
+74.208.163.15 1 1 12314 20170924142602
+204.8.156.142 1 1 3571 20170920003249
+178.20.55.16 1 1 3571 20170904095408
+185.103.99.60 1 1 3571 20170917185231
+181.214.166.91 1 1 3571 20170911231739
+52.50.103.227 1 1 12314 20170919192203
+5.188.211.35 1 1 12314 20170911001354
+51.15.45.131 1 1 3571 20170905023419
+88.99.2.215 1 1 12314 20170907115829
+18.220.208.71 1 1 3571 20170926145437
+216.218.222.12 1 1 3571 20170917122519
+185.104.120.4 1 1 3571 20170919014106
+85.248.227.163 1 1 3571 20170915025549
+162.247.72.7 1 1 3571 20170921044819
+178.17.170.196 1 1 3571 20170921083645
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20170901 5 5 14284 5
+20170902 4 4 14284 4
+20170903 6 6 21426 6
+20170904 8 8 46054 7
+20170905 8 8 46054 7
+20170906 4 4 14284 4
+20170907 13 35 1965133 12
+20170908 4 4 23027 4
+20170909 4 4 14284 4
+20170910 2 2 7142 2
+20170911 14 36 1955994 13
+20170912 4 4 14284 4
+20170913 17 17 95679 15
+20170914 37 37 128917 4
+20170915 8 8 37311 8
+20170916 12 12 128194 3
+20170917 5 5 17855 5
+20170918 7 7 33740 7
+20170919 14 14 67480 14
+20170920 9 11 239413 3
+20170921 11 11 48024 11
+20170922 2 2 7142 2
+20170923 17 17 162973 5
+20170924 3 4 78883 3
+20170926 3 3 10713 3
+20170927 2 2 7142 2
+20170928 3 3 10713 3
+20170929 1 1 3571 1
+20170930 3 3 28199 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 163
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/ 171 825645 163 158
+/goodlettsville/grass-cutting.html 5 43247 0 0
+/greenbrier/grass-cutting.html 4 31276 0 0
+/hendersonville/grass-cutting.html 4 31128 0 0
+/bellevue/grass-cutting.html 4 31060 0 0
+/joelton/grass-cutting.html 4 31040 0 2
+/brentwood/grass-cutting.html 4 31072 0 0
+/gallatin/grass-cutting.html 4 31060 0 0
+/madison/grass-cutting.html 3 18988 0 0
+/lavergne/grass-cutting.html 3 18990 0 0
+/franklin/grass-cutting.html 3 19003 0 0
+/murfreesboro/grass-cutting.html 3 19018 0 0
+/ridgetop/grass-cutting.html 3 18990 0 0
+/antioch/grass-cutting.html 3 18989 0 0
+/nashville/grass-cutting.html 3 19000 0 0
+/nolensville/grass-cutting.html 2 6934 0 0
+/smyrna/grass-cutting.html 2 7064 0 1
+/fonts/font-awesome/fonts/fontawesome-webfont.eot 1 60744 0 1
+/pleasant%20view/grass-cutting.html 1 12094 0 0
+/sitemap.xml 1 3129 0 0
+/whites%20creek/grass-cutting.html 1 11936 0 0
+/fonts/font-awesome/fonts/fontawesome-webfont.woff2 1 56777 0 1
+END_SIDER

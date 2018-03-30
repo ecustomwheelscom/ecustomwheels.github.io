@@ -1,0 +1,485 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201705 will be lost/reset.
+# Last config file used to build this data file was /home/y4eqn47/tmp/awstats/awstats.midtnlawncare.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2677                
+POS_VISITOR 8711                
+POS_DAY 11852               
+POS_DOMAIN 3418                
+POS_LOGIN 3886                
+POS_ROBOT 4041                
+POS_WORMS 4521                
+POS_EMAILSENDER 4652                
+POS_EMAILRECEIVER 4795                
+POS_SESSION 12543               
+POS_SIDER 12731               
+POS_FILETYPES 4930                
+POS_DOWNLOADS 5105                
+POS_OS 5153                
+POS_BROWSER 5350                
+POS_SCREENSIZE 5948                
+POS_UNKNOWNREFERER 6022                
+POS_UNKNOWNREFERERBROWSER 6229                
+POS_ORIGIN 6380                
+POS_SEREFERRALS 6517                
+POS_PAGEREFS 6682                
+POS_SEARCHWORDS 6888                
+POS_KEYWORDS 7053                
+POS_MISC 2341                
+POS_ERRORS 7127                
+POS_CLUSTER 3742                
+POS_SIDER_404 7217                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170601000859 10 1881 11087932843708
+FirstTime 0
+LastTime 20170531081215
+LastUpdate 20170601051104 10 0 9 0 0
+TotalVisits 67                  
+TotalUnique 62                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 89                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 88570 4 46 298628
+1 1 1 3571 8 63 2619331
+2 3 3 10713 10 12 171754
+3 4 4 14284 8 20 42236
+4 3 3 10713 71 482 6137765
+5 11 34 1187403 6 33 991093
+6 2 2 15885 5 22 124186
+7 2 2 7142 7 20 22554
+8 4 29 282332 3 4 820
+9 6 28 1865477 5 31 134288
+10 6 9 57369 7 51 408546
+11 2 2 15885 33 97 3063450
+12 9 53 3826653 7 42 130559
+13 0 0 0 3 32 341268
+14 6 6 21426 3 14 60352
+15 1 1 3571 2 20 123495
+16 17 83 4109820 4 23 136715
+17 6 50 2873795 6 12 44563
+18 8 64 2270140 3 23 287753
+19 1 1 12314 6 58 2990897
+20 13 17 45309 8 21 1070305
+21 3 4 70140 14 86 2697818
+22 2 24 1904399 6 27 82758
+23 4 4 14284 18 89 2719575
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+us 76 385 18418757
+ie 6 6 72685
+de 6 6 21426
+gb 5 5 17855
+fr 5 5 17855
+nl 4 4 14284
+eu 4 4 14284
+cn 2 2 7142
+ua 2 2 7142
+ru 2 2 15885
+ro 2 2 7142
+br 1 1 3571
+ch 1 1 3571
+at 1 1 3571
+md 1 1 3571
+se 1 1 3571
+no 1 1 3571
+in 1 1 12314
+ca 1 1 3571
+nz 0 1 59427
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 687 12787843 20170531062615 0
+googlebot 299 1867618 20170530174440 0
+bingpreview 98 9587945 20170513115221 0
+spider 24 290773 20170529094204 0
+msnbot\-media 5 17412 20170513225432 0
+googlebot\-image 4 79636 20170511220137 0
+crawl 1 3571 20170518051412 0
+netcraft 1 12314 20170510074941 0
+no_user_agent 1 12314 20170519003633 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+jpg 81 15750617 0 0
+php 1 42 0 0
+css 102 476370 0 0
+html 109 662298 0 0
+js 127 1140544 0 0
+woff2 12 681324 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linux 6 6
+ios_iphone 158 14
+winxp 40 40
+win8.1 73 7
+Unknown 28 24
+winnt 1 1
+winlong 28 5
+win7 40 12
+linuxandroid 48 4
+win2003 10 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 29
+firefox26.0 2 2
+msie11.0 23 1
+chrome56.0.2924.87 2 2
+chrome31.0.1650.57 1 1
+chrome58.0.3029.96 1 0
+firefox29.0 1 1
+chrome34.0.1847.116 1 1
+msie8.0 2 2
+safari 158 14
+firefox21.0 1 0
+mozilla 10 10
+chrome10.0.648.11 1 1
+msie9.0 27 1
+chrome37.0.2062.120 2 2
+chrome58.0.3029.110 1 1
+chrome34.0.1847.137 1 1
+chrome57.0.2987.133 72 6
+chrome49.0.2623.75 1 1
+msie7.0 11 9
+Unknown 18 14
+chrome11.0.696.71 2 2
+firefox7.0.1 34 34
+firefox3.6.3 1 1
+chrome27.0.1453.90 1 1
+firefox3.6.8 6 6
+firefox30.0 1 1
+firefox33.0 2 2
+firefox40.1 1 1
+chrome58.0.3029.83 48 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+panscient.com 20170521203511
+Mozilla/5.0_(compatible;_ips-agent) 20170517165543
+Python/3.5_aiohttp/1.1.5 20170519122717
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Python/3.5_aiohttp/1.1.5 20170519122717
+panscient.com 20170521203511
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 88 98
+From1 1 1
+From2 10 11
+From3 2 2
+From4 21 320
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 9 10
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://pizza-tycoon.com 1 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+midtn+lawn 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+midtn 1
+lawn 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 186 41283
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 34
+/news/ 1 https://www.google.com/
+/img/apple-touch-icon-72x72.png 9 -
+/js/jqbootstrapvalidation.js 1 -
+/goodlettsville/js/mail/contact_me.php 1 -
+/product/ninja-t-shirt/feed/ 1 -
+/.git/ 1 http://midtnlawncare.com/.git/
+/img/apple-touch-icon.png 9 -
+/product-category/music/feed/ 1 -
+/administrator/language/en-GB/en-GB.xml 1 -
+/js/smoothscroll.js 1 -
+/robots.txt 82 -
+/mt%20juliet/js/mail/contact_me.php 1 -
+/blog/ 1 http://midtnlawncare.com/blog/
+/product/logo-hoodie/feed/ 1 -
+/pleasant%20view/js/mail/contact_me.php 1 -
+/img/apple-touch-icon-114x114.png 9 -
+/product-category/clothing/feed/ 1 -
+/product/happy-ninja-t-shirt/feed/ 1 -
+/wp-login.php 3 -
+/js/mail/contact_me.php 1 -
+/product/logo-poster/feed/ 1 -
+/index.php 1 -
+/product-category/posters/feed/ 1 -
+/contact_me.php 26 http://midtnlawncare.com/
+/product/flying-ninja-poster/feed/ 1 -
+/product-category/clothing/hoodies/ 5 -
+/product/greatest-hits-volume-1/feed/ 1 -
+/product-category/clothing/t-shirts/ 5 -
+/wp-admin/themes.php 13 -
+/pleasantview/grass-cutting.html 1 -
+/product/greatest-hits-volume-2/feed/ 1 -
+/product/patient-ninja-hoodie/feed/ 1 -
+/product/logo-t-shirt/feed/ 1 -
+/contact/ 1 https://www.google.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 89
+72.79.54.220 13 17 45309 20170521203511
+98.211.40.117 12 134 6188706 20170516181521
+69.58.178.56 10 10 121052 20170517165543
+38.100.21.64 9 10 119605 20170513053129
+89.234.68.88 6 6 72685 20170507001635
+98.193.139.198 6 72 3985197 20170504161845
+185.29.8.132 4 4 14284 20170511091923
+144.217.167.240 2 2 15885 20170516074154
+151.191.67.200 2 24 1904399 20170512122327
+69.245.5.250 2 24 1904399 20170527122921
+106.14.12.253 2 2 7142 20170501211402
+76.218.232.220 2 24 1904399 20170512222227
+204.44.65.210 2 2 24628 20170515103452
+163.172.4.153 2 2 7142 20170525144956
+204.17.56.42 1 1 3571 20170529123124
+104.238.169.140 1 1 3571 20170520090524
+95.213.184.251 1 1 12314 20170522172312
+204.85.191.30 1 1 3571 20170523020752
+207.244.70.35 1 1 3571 20170531071936
+185.129.62.62 1 1 3571 20170520015515
+199.249.223.81 1 1 3571 20170530114203
+5.148.165.13 1 1 3571 20170512085750
+152.216.11.5 1 23 1847622 20170530093608
+185.100.85.192 1 1 3571 20170515142802
+155.4.230.97 1 1 3571 20170531081215
+204.79.180.107 0 1 1118 
+204.79.180.73 0 1 3072 
+204.79.180.182 0 1 5745 
+204.79.180.4 0 1 528 
+87.118.116.12 1 1 3571 20170523123806
+204.79.180.246 0 1 600 
+204.79.180.236 0 1 941 
+91.210.145.159 1 1 3571 20170529103814
+204.79.180.82 0 1 861 
+171.25.193.20 1 1 3571 20170516031427
+204.79.180.204 0 1 861 
+51.15.40.233 1 1 3571 20170511235744
+204.79.180.155 0 1 14444 
+46.101.127.145 1 1 3571 20170511141928
+174.129.126.189 1 1 12314 20170524004951
+204.79.180.218 0 1 890 
+219.89.200.30 0 1 59427 
+166.70.207.2 1 1 3571 20170516065011
+104.239.149.11 1 1 3571 20170507230230
+163.172.67.180 1 1 3571 20170512213857
+193.201.225.45 1 1 3571 20170515124917
+85.195.107.250 1 1 3571 20170522040552
+104.130.124.209 1 1 3571 20170508230556
+185.100.85.101 1 1 3571 20170523044919
+204.79.180.234 0 1 600 
+91.121.77.37 1 1 3571 20170512101847
+178.17.174.32 1 1 3571 20170517034012
+40.77.167.24 0 2 17516 
+213.61.149.100 1 1 3571 20170511101734
+92.222.134.129 1 1 3571 20170515045643
+103.42.126.22 1 1 12314 20170501115245
+157.55.39.216 0 1 941 
+204.79.180.214 1 1 3571 20170525085353
+204.79.180.177 0 1 1118 
+204.79.180.84 0 1 2743 
+204.79.180.220 0 1 6783 
+93.158.216.52 1 1 3571 20170522003747
+146.185.144.64 1 1 3571 20170519033537
+193.171.202.150 1 1 3571 20170528142856
+204.79.180.181 0 1 5745 
+204.79.180.137 0 1 10880 
+204.79.180.2 0 1 4358 
+66.249.88.31 1 1 3571 20170502152504
+54.255.163.172 1 1 12314 20170518191133
+155.133.82.122 1 1 3571 20170526142359
+173.254.216.66 1 1 3571 20170515082805
+204.79.180.165 0 1 21330 
+46.165.230.5 1 1 3571 20170523031200
+91.223.82.156 1 1 3571 20170516165119
+204.79.180.65 0 1 528 
+204.79.180.122 0 1 33224 
+161.69.99.11 1 1 3571 20170530231422
+64.137.246.162 1 1 3571 20170531021536
+46.182.18.40 1 1 3571 20170523122303
+69.74.193.130 0 2 118854 
+201.86.95.6 1 1 3571 20170509172049
+51.15.39.2 1 1 3571 20170523102811
+204.79.180.1 0 1 2743 
+176.31.180.157 1 1 3571 20170515143302
+188.165.2.183 1 1 3571 20170510025004
+138.68.58.58 1 1 3571 20170519122717
+204.79.180.38 0 1 21330 
+178.33.39.197 1 1 3571 20170530185013
+204.79.180.185 0 1 8752 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20170501 3 3 19456 2
+20170502 1 1 3571 1
+20170504 6 72 3985197 1
+20170505 2 24 953550 1
+20170507 7 7 76256 2
+20170508 5 39 362170 2
+20170509 1 1 3571 1
+20170510 1 2 62998 1
+20170511 8 8 37311 5
+20170512 7 51 3819511 5
+20170513 9 10 119605 1
+20170514 2 24 1067798 1
+20170515 7 9 161337 6
+20170516 8 52 3823043 5
+20170517 11 11 124623 2
+20170518 2 2 15885 2
+20170519 2 2 7142 2
+20170520 2 2 7142 2
+20170521 13 20 63766 1
+20170522 3 3 19456 3
+20170523 6 6 21426 6
+20170524 1 1 12314 1
+20170525 2 25 156336 2
+20170526 1 1 3571 1
+20170527 2 24 1904399 1
+20170528 1 1 3571 1
+20170529 2 2 7142 2
+20170530 4 26 1858335 4
+20170531 3 3 10713 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 63
+30s-2mn 1
+5mn-15mn 1
+30mn-1h 1
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 24
+/ 72 344542 65 55
+/fonts/font-awesome/fonts/fontawesome-webfont.woff2 8 454216 0 6
+/antioch/grass-cutting.html 4 39647 0 1
+/franklin/grass-cutting.html 3 27608 0 0
+/brentwood/grass-cutting.html 3 27609 0 0
+/pleasant%20view/grass-cutting.html 3 10386 1 0
+/joelton/grass-cutting.html 3 18982 0 1
+/mt%20juliet/grass-cutting.html 2 15530 0 0
+/pleasant%20view/fonts/font-awesome/fonts/fontawesome-webfont.woff2 2 113554 0 1
+/nashville/grass-cutting.html 2 24140 0 1
+/lavergne/grass-cutting.html 2 15528 0 1
+/goodlettsville/grass-cutting.html 2 15571 0 0
+/greenbrier/grass-cutting.html 2 15638 0 0
+/murfreesboro/grass-cutting.html 2 24180 0 0
+/old%20hickory/grass-cutting.html 2 15546 0 0
+/hendersonville/grass-cutting.html 2 24196 0 0
+/mail/contact_me.php 1 42 0 0
+/bellevue/grass-cutting.html 1 12067 0 0
+/joelton/fonts/font-awesome/fonts/fontawesome-webfont.woff2 1 56777 0 1
+/smyrna/grass-cutting.html 1 3532 1 0
+/smyrna/fonts/font-awesome/fonts/fontawesome-webfont.woff2 1 56777 0 0
+/ridgetop/grass-cutting.html 1 12064 0 0
+/gallatin/grass-cutting.html 1 12067 0 0
+/madison/grass-cutting.html 1 3465 0 0
+END_SIDER

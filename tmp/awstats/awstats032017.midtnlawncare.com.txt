@@ -1,0 +1,438 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+# Last config file used to build this data file was /home/y4eqn47/tmp/awstats/awstats.midtnlawncare.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2694                
+POS_VISITOR 11934               
+POS_DAY 13731               
+POS_DOMAIN 3401                
+POS_LOGIN 3710                
+POS_ROBOT 3865                
+POS_WORMS 4189                
+POS_EMAILSENDER 4320                
+POS_EMAILRECEIVER 4463                
+POS_SESSION 14033               
+POS_SIDER 14217               
+POS_FILETYPES 4598                
+POS_DOWNLOADS 4828                
+POS_OS 4876                
+POS_BROWSER 5084                
+POS_SCREENSIZE 5472                
+POS_UNKNOWNREFERER 5546                
+POS_UNKNOWNREFERERBROWSER 5931                
+POS_ORIGIN 6144                
+POS_SEREFERRALS 6282                
+POS_PAGEREFS 6437                
+POS_SEARCHWORDS 6660                
+POS_KEYWORDS 6812                
+POS_MISC 2358                
+POS_ERRORS 6871                
+POS_CLUSTER 3566                
+POS_SIDER_404 6978                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170401010408 335 85410 9932786532760
+FirstTime 20170322085908
+LastTime 20170331192006
+LastUpdate 20170401051044 335 0 334 0 0
+TotalVisits 53                  
+TotalUnique 40                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 44                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 6 69131
+2 3 26 1203897 0 0 0
+3 2 2 5018 1 3 2294
+4 5 51 2405070 0 4 0
+5 7 67 4742795 3 41 5018
+6 4 48 3821292 1 2 0
+7 2 25 1201388 0 0 0
+8 3 25 1903282 4 6 10090
+9 4 32 2154746 0 0 0
+10 0 0 0 2 19 175500
+11 4 22 142084 12 62 309227
+12 3 26 1192921 1 3 2294
+13 3 27 2020370 12 77 689527
+14 4 50 2821840 1 25 1069572
+15 8 97 7780447 1 19 172991
+16 2 25 1201388 0 3 0
+17 4 27 183840 1 30 1069357
+18 32 223 4941596 9 12 16309
+19 23 250 4319345 6 10 0
+20 72 912 12792021 30 126 3084803
+21 22 229 5729695 3 13 2294
+22 1 24 1129883 1 2 2509
+23 2 25 1186663 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 201 2158 60543824
+in 3 49 2316546
+ru 2 2 10035
+lu 1 1 2294
+ca 1 1 2294
+gb 1 1 2294
+pa 1 1 2294
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+googlebot 154 2856986 20170331115949 0
+bot[\s_+:,\.\;\/\\-] 120 2849460 20170331172148 0
+googlebot\-image 7 955867 20170331052139 0
+unknown 1 67 20170322182459 1
+robot 1 2294 20170326174805 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+php 5 0 0 0
+js 781 8316025 0 0
+woff2 15 851658 0 0
+css 593 3274238 0 0
+html 121 395825 0 0
+eot 54 3280176 0 0
+woff 15 1072584 0 0
+jpg 628 45686597 0 0
+png 1 2478 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+java 1 1
+winlong 2 2
+linuxandroid 172 16
+win7 123 14
+j2me 1 1
+winnt 1389 113
+win8.1 27 4
+linux 25 3
+Unknown 32 19
+ios_iphone 440 36
+winxp 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+chrome34.0.1847.131 3 3
+firefox49.0 1 1
+chrome30.0.0.0 24 2
+android 24 2
+netscape5.0 2 2
+Unknown 5 4
+chrome27.0.1453 51 5
+msie8.0 4 4
+chrome56.0.2924.87 172 15
+msie11.0 1407 114
+firefox52.0 50 4
+chrome11.0.696.71 1 1
+opera10.54 1 1
+opera26.0.1656.60 1 1
+safari8.0 250 20
+chrome34.0.1847.137 1 1
+mozilla 26 14
+safari 91 8
+safari10.0 99 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+WordPress/4.7.3;_http://midtnlawncare.com 20170322182239
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20170322182511
+Mozilla/5.0,_Google-AdWords-Express 20170330210839
+Agent 20170324212513
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20170330205223
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Agent 20170324212513
+Apache-HttpClient/4.5_(Java/1.8.0_25) 20170329170519
+WordPress/4.7.3;_http://midtnlawncare.com 20170322182239
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 110 124
+From1 0 0
+From2 7 7
+From3 3 3
+From4 90 2079
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 7 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.weburlopener.com 2 2
+http://www.example.com/wkh/iframe.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 151 16200
+405 1 42
+301 4 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 81
+/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js 1 http://midtnlawncare.com/contact/
+/css/owl.theme.css 1 http://www.midtnlawncare.com/
+/js/nivo-lightbox.js 1 http://www.midtnlawncare.com/
+/css/bootstrap.css.map 1 -
+/img/apple-touch-icon.png 8 -
+/www.facebook.com/midtnlawncare 2 -
+/manager/ 1 -
+/logo-hoodie/ 1 -
+/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js 1 http://midtnlawncare.com/contact/
+/logo-t-shirt/ 1 -
+/js/jqBootstrapValidation.js 1 http://www.midtnlawncare.com/
+/img/portfolio/03-small.jpg 1 http://www.midtnlawncare.com/
+/apple-touch-icon.png 3 -
+/wp-includes/js/underscore.min.js 1 http://midtnlawncare.com/contact/
+/img/portfolio/02-small.jpg 1 http://www.midtnlawncare.com/
+/img/services/service-2.jpg 1 http://www.midtnlawncare.com/
+/wp-content/plugins/contact-widgets/assets/css/style.min.css 1 http://midtnlawncare.com/contact/
+/wp-content/plugins/ninja-forms/assets/js/min/front-end-deps.js 1 http://midtnlawncare.com/contact/
+/wp-includes/js/wp-embed.min.js 1 http://midtnlawncare.com/contact/
+/wp-content/plugins/storefront-sticky-add-to-cart/assets/css/style.css 1 http://midtnlawncare.com/contact/
+/css/owl.carousel.css 1 http://www.midtnlawncare.com/
+/wp-content/themes/storefront/assets/js/skip-link-focus-fix.min.js 1 http://midtnlawncare.com/contact/
+/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js 1 http://midtnlawncare.com/contact/
+/img/about-1.jpg 1 http://www.midtnlawncare.com/
+/css/style.css 1 http://www.midtnlawncare.com/
+/apple-touch-icon-120x120-precomposed.png 1 -
+/css/nivo-lightbox/default.css 1 http://www.midtnlawncare.com/
+/wp-includes/js/jquery/jquery-migrate.min.js 1 http://midtnlawncare.com/contact/
+/js/SmoothScroll.js 1 http://www.midtnlawncare.com/
+/fonts/font-awesome/css/font-awesome.css 1 http://www.midtnlawncare.com/
+/simpla/ 1 -
+/wp-content/plugins/ninja-forms/assets/css/display-structure.css 1 http://midtnlawncare.com/contact/
+/wp-content/plugins/storefront-product-pagination/assets/css/style.css 1 http://midtnlawncare.com/contact/
+/apple-touch-icon-120x120.png 1 -
+/wp-includes/css/dashicons.min.css 1 http://midtnlawncare.com/contact/
+/admin/content/sitetree/ 1 -
+/admin/ 1 -
+/css/bootstrap.css 1 http://www.midtnlawncare.com/
+/wp-includes/js/backbone.min.js 1 http://midtnlawncare.com/contact/
+/patient-ninja-hoodie/ 1 -
+/img/portfolio/09-small.jpg 1 http://www.midtnlawncare.com/
+/img/about-2.jpg 1 http://www.midtnlawncare.com/
+/contact/ 1 -
+/img/services/service-4.jpg 1 http://www.midtnlawncare.com/
+/js/jquery.1.11.1.js 1 http://www.midtnlawncare.com/
+/js/contact_me.js 1 http://www.midtnlawncare.com/
+/flying-ninja-poster/ 2 -
+/wp-content/themes/storefront/style.css 1 http://midtnlawncare.com/contact/
+/img/apple-touch-icon-114x114.png 8 -
+/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js 1 http://midtnlawncare.com/contact/
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js 1 http://midtnlawncare.com/contact/
+/wp-content/themes/storefront/assets/js/navigation.min.js 1 http://midtnlawncare.com/contact/
+/wp-includes/js/jquery/jquery.js 1 http://midtnlawncare.com/contact/
+/js/bootstrap.js 1 http://www.midtnlawncare.com/
+/img/portfolio/06-small.jpg 1 http://www.midtnlawncare.com/
+/index.html 24 -
+/wp-content/themes/storefront/assets/sass/woocommerce/woocommerce.css 1 http://midtnlawncare.com/contact/
+/robots.txt 17 -
+/js/mage/cookies.js 1 -
+/img/services/service-3.jpg 1 http://www.midtnlawncare.com/
+/js/jquery.isotope.js 1 http://www.midtnlawncare.com/
+/js/owl.carousel.js 1 http://www.midtnlawncare.com/
+/index 1 -
+/js/main.js 1 http://www.midtnlawncare.com/
+/services/ 1 -
+/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js 1 http://midtnlawncare.com/contact/
+/ 7 -
+/wp-includes/js/wp-emoji-release.min.js 1 http://midtnlawncare.com/contact/
+/css/nivo-lightbox/nivo-lightbox.css 1 http://www.midtnlawncare.com/
+/img/apple-touch-icon-72x72.png 8 -
+/midtnlawncare 1 -
+/apple-touch-icon-precomposed.png 1 -
+/img/portfolio/01-small.jpg 1 http://www.midtnlawncare.com/
+/img/portfolio/05-small.jpg 1 http://www.midtnlawncare.com/
+/wp-content/plugins/storefront-product-sharing/assets/css/style.css 1 http://midtnlawncare.com/contact/
+/img/portfolio/04-small.jpg 1 http://www.midtnlawncare.com/
+/wp-content/plugins/ninja-forms/assets/js/min/front-end.js 1 http://midtnlawncare.com/contact/
+/img/portfolio/07-small.jpg 1 http://www.midtnlawncare.com/
+/img/services/service-1.jpg 1 http://www.midtnlawncare.com/
+/img/service-2.jpg 1 http://www.midtnlawncare.com/
+/img/portfolio/08-small.jpg 1 http://www.midtnlawncare.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 44
+98.211.40.117 117 1448 17977085 20170330212730
+174.195.130.69 16 200 9611104 20170326144532
+69.4.39.174 12 24 456832 20170322182511
+174.195.136.31 4 50 2402776 20170327090721
+66.102.8.144 3 24 2866466 20170331150721
+111.93.85.173 3 49 2316546 20170322230213
+107.180.12.115 3 3 0 20170322182239
+161.239.225.132 3 44 1322676 20170326121657
+174.195.130.190 2 24 1903282 20170331055031
+151.191.67.200 2 7 953358 20170331092127
+174.196.4.60 2 24 1903282 20170331061453
+66.102.6.95 2 16 1065853 20170331155543
+66.102.6.94 2 19 2002721 20170331155544
+174.195.138.225 2 24 1918010 20170331055715
+98.193.139.198 2 25 1186660 20170327184557
+73.58.146.255 2 26 1219884 20170324212513
+209.208.26.242 2 2 5018 20170331031852
+174.196.134.60 2 18 919209 20170331050723
+194.87.146.150 2 2 10035 20170323115226
+71.228.201.136 2 24 1903282 20170331083314
+66.102.8.142 2 16 1159353 20170330205223
+76.218.232.220 2 25 1186660 20170323183510
+50.117.89.222 2 2 20697 20170322182240
+66.102.6.18 2 12 998447 20170326134031
+174.196.128.118 2 24 1918010 20170331062020
+23.254.201.174 1 1 2509 20170331025907
+174.196.129.76 1 7 1497830 20170331192006
+66.102.8.146 1 10 218395 20170331150721
+54.147.171.31 1 1 2294 20170325211104
+162.150.127.13 0 1 95785 
+88.99.68.199 1 1 2294 20170323200416
+66.102.7.200 1 1 2294 20170326125553
+66.102.6.14 0 8 844332 
+66.102.8.210 1 11 1165445 20170326145540
+94.242.246.23 1 1 2294 20170329051612
+158.69.25.178 1 1 2294 20170326174416
+66.102.6.16 1 7 177591 20170326134031
+66.102.8.206 0 6 136546 
+66.102.8.208 1 8 318461 20170326145541
+179.43.133.114 1 1 2294 20170328042623
+148.62.14.156 1 1 2294 20170324181206
+174.127.188.38 1 1 2294 20170329170519
+66.249.88.38 1 1 2509 20170330210839
+66.102.6.93 0 13 1174580 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20170322 57 605 9942427 8
+20170323 5 28 1198989 3
+20170324 7 78 3706011 4
+20170325 11 126 6009234 5
+20170326 13 129 7238813 9
+20170327 6 75 3589436 3
+20170328 1 1 2294 1
+20170329 2 2 4588 2
+20170330 84 942 11684940 4
+20170331 24 227 19502849 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 4
+5mn-15mn 2
+1h+ 1
+0s-30s 45
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 110 306195 46 18
+/fonts/font-awesome/fonts/fontawesome-webfont.eot 54 3280176 0 2
+/fonts/font-awesome/fonts/fontawesome-webfont.woff2 15 851658 1 13
+/fonts/font-awesome/fonts/fontawesome-webfont.woff 15 1072584 3 13
+/wp-cron.php 3 0 3 3
+/mail/contact_me.php 2 0 0 2
+/contact/ 2 14111 0 1
+/wp-json/ 1 52571 0 0
+/feed/ 1 2045 0 0
+/author/admin/feed/ 1 2086 0 1
+/comments/feed/ 1 3706 0 0
+/author/admin/ 1 3507 0 0
+/hello-world/feed/ 1 940 0 0
+/about/ 1 3525 0 0
+/services/ 1 3230 0 0
+/hello-world/ 1 3909 0 0
+END_SIDER

@@ -1,0 +1,485 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201712 will be lost/reset.
+# Last config file used to build this data file was /home/y4eqn47/tmp/awstats/awstats.midtnlawncare.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2672                
+POS_VISITOR 8651                
+POS_DAY 12476               
+POS_DOMAIN 3422                
+POS_LOGIN 3891                
+POS_ROBOT 4046                
+POS_WORMS 4526                
+POS_EMAILSENDER 4657                
+POS_EMAILRECEIVER 4800                
+POS_SESSION 13118               
+POS_SIDER 13287               
+POS_FILETYPES 4935                
+POS_DOWNLOADS 5139                
+POS_OS 5187                
+POS_BROWSER 5431                
+POS_SCREENSIZE 5983                
+POS_UNKNOWNREFERER 6057                
+POS_UNKNOWNREFERERBROWSER 6273                
+POS_ORIGIN 6393                
+POS_SEREFERRALS 6530                
+POS_PAGEREFS 6685                
+POS_SEARCHWORDS 6833                
+POS_KEYWORDS 6985                
+POS_MISC 2336                
+POS_ERRORS 7044                
+POS_CLUSTER 3747                
+POS_SIDER_404 7134                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180101062935 1 0 12393750194093
+FirstTime 0
+LastTime 20171231060532
+LastUpdate 20180102051925 1 0 0 0 0
+TotalVisits 110                 
+TotalUnique 90                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 101                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 17855 0 23 372481
+1 9 31 180472 5 113 939118
+2 8 30 1937025 7 15 322698
+3 11 13 99808 10 25 195149
+4 7 7 24997 11 33 255545
+5 5 5 26352 13 18 177722
+6 4 4 22781 11 59 2071905
+7 2 2 15885 6 12 138022
+8 2 2 7142 6 33 218054
+9 7 7 42483 11 47 177839
+10 3 3 10713 11 54 319860
+11 5 5 35125 3 22 71084
+12 19 19 153191 14 41 153388
+13 5 5 17855 8 41 215776
+14 2 2 7142 3 74 1028590
+15 4 4 14284 10 47 2119799
+16 3 3 10713 77 521 6473523
+17 3 3 19456 5 12 156957
+18 9 53 4274349 5 26 127414
+19 4 4 40513 6 19 190153
+20 3 3 10713 10 67 726734
+21 9 75 6186525 11 23 233559
+22 3 25 2342956 6 12 211751
+23 3 3 10713 6 32 309567
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+us 59 193 11337439
+ru 18 18 124771
+gb 14 14 42852
+nl 7 7 24997
+de 6 6 21426
+ca 4 4 23027
+no 4 4 14284
+fr 4 4 14284
+ro 4 4 14284
+in 3 25 1919170
+cn 2 2 24628
+id 2 24 1919318
+ua 2 2 7142
+it 1 1 3571
+eu 1 1 3571
+md 1 1 3571
+se 1 1 3571
+pl 1 1 3571
+st 1 1 3571
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 603 9491954 20171231070027 0
+googlebot 457 2893327 20171231190824 0
+bingpreview 33 3789228 20171221064737 0
+spider 26 614696 20171229145957 0
+robot 18 62867 20171224125127 0
+[\s_+:,\.\;\/\\-]bot 8 173675 20171223122553 0
+netcraft 3 36942 20171206162247 0
+googlebot\-image 2 85537 20171224080100 0
+crawl 1 3571 20171208230447 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 127 722163 0 0
+ttf 1 71696 0 0
+jpg 42 12094474 0 0
+php 1 43 0 0
+js 72 1408268 0 0
+eot 2 121488 0 0
+css 64 804887 0 0
+woff 4 286029 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+linuxubuntu 1 1
+linuxandroid 24 2
+linux 5 5
+win2003 8 6
+win8.1 1 1
+Unknown 14 14
+win8 26 4
+macosx 17 17
+winnt 30 8
+winxp 63 63
+win7 74 8
+macosx4 2 2
+winlong 24 2
+ios_iphone 24 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+chrome61.0.3163.100 36 14
+msie7.0 9 7
+msie11.0 49 5
+chrome34.0.1847.131 1 1
+msie9.0 23 1
+firefox21.0 25 3
+chrome10.0.648.0 1 1
+firefox50.0 1 1
+msie6.0 6 6
+opera46.0.2597.57 1 1
+chrome57.0.2987.133 2 2
+firefox45.0 1 1
+opera8.50 1 1
+chrome58.0.3029.110 6 6
+firefox3.6.2 1 1
+firefox35.0 2 2
+firefox48.0 1 1
+chrome34.0.1847.116 1 1
+safari9.0 24 2
+chrome36.0.1985.143 24 2
+chrome57.5.1841.6114 1 1
+chrome54.0.2840.71 1 1
+mozilla 10 10
+firefox7.0.1 57 57
+Unknown 2 2
+chrome62.0.3202.84 24 2
+firefox26.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_ips-agent) 20171208124158
+python-requests/2.18.4 20171230033423
+Mozilla/5.0_Firefox/35.0 20171229113346
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-requests/2.18.4 20171230033423
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 111 113
+From1 1 1
+From2 8 8
+From3 0 0
+From4 15 191
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 8 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 203 54891
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 37
+/test/wp-admin/setup-config.php 1 -
+/beta/wp-admin/setup-config.php 1 -
+/img/apple-touch-icon.png 4 -
+/robots.txt 115 -
+/rep.php 1 -
+/tools/replace.php 1 -
+/license.php 2 -
+//wp-content/plugins/woocommerce-products-designer/readme.txt 1 -
+/cms/wp-admin/setup-config.php 1 -
+/downloader 1 -
+/wp-login.php 1 -
+/up.php 2 -
+/index.php 1 -
+/replace.php 1 -
+/img/apple-touch-icon-72x72.png 5 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+//wp-admin/admin-ajax.php 2 -
+/blog/wp-admin/setup-config.php 1 -
+/img/apple-touch-icon-114x114.png 4 -
+/antioch/img/apple-touch-icon.png 2 -
+/sftp-config.json 1 -
+/far.php 1 -
+/antioch/img/apple-touch-icon-72x72.png 2 -
+/wp-content/plugins/php-event-calendar/readme.txt 1 -
+/contact_me.php 37 http://midtnlawncare.com/
+/site/wp-admin/setup-config.php 1 -
+/oldhickory/grass-cutting.html 1 -
+/whitehouse/grass-cutting.html 1 -
+/antioch/img/apple-touch-icon-114x114.png 2 -
+/administrator/replace.php 1 -
+/old/wp-admin/setup-config.php 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/blogs/wp-admin/setup-config.php 1 -
+//wp-content/plugins/delete-all-comments/readme.txt 1 -
+/whitescreek/grass-cutting.html 1 -
+/wp-admin/setup-config.php 1 -
+/wp/wp-admin/setup-config.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 101
+13.56.229.65 10 10 35710 20171231060532
+69.58.178.59 10 10 121052 20171208124158
+38.100.21.68 6 8 89095 20171214033323
+163.172.4.153 4 4 14284 20171218094754
+104.223.123.98 4 4 14284 20171216015348
+5.188.211.15 3 3 36480 20171228075653
+51.15.39.2 3 3 10713 20171228235642
+171.78.228.28 3 25 1919170 20171205023046
+188.165.2.183 3 3 10713 20171223052935
+124.206.180.188 2 2 24628 20171229113346
+208.54.19.8 2 24 1908366 20171203210138
+65.19.167.131 2 2 7142 20171220044943
+119.18.158.162 2 24 1919318 20171225213118
+82.202.249.91 2 2 24628 20171208172301
+193.90.12.119 2 2 7142 20171222125738
+66.102.6.159 2 17 1406252 20171215180546
+64.39.140.196 2 24 2339385 20171203210142
+178.17.170.135 1 1 3571 20171226130454
+66.102.8.142 1 7 744403 20171215180348
+217.182.78.177 1 1 3571 20171226045228
+45.62.253.113 1 1 3571 20171218161515
+62.212.73.141 1 1 3571 20171228011103
+5.188.211.13 1 1 12068 20171227050938
+204.85.191.31 1 1 3571 20171224085255
+188.226.129.55 1 1 3571 20171219155944
+204.79.180.8 0 3 17743 
+66.102.8.144 0 6 161491 
+109.201.133.100 1 1 3571 20171220185419
+37.218.240.21 1 1 3571 20171228100121
+104.151.121.22 1 1 3571 20171221045150
+199.249.223.74 1 1 3571 20171220214058
+216.69.191.97 1 1 12314 20171220091559
+77.247.181.163 1 1 3571 20171220204554
+185.220.101.20 1 1 3571 20171228053232
+46.183.144.25 1 1 3571 20171202013845
+185.220.101.30 1 1 3571 20171220020625
+66.102.6.157 1 16 1390786 20171203221710
+185.220.101.25 1 1 3571 20171228093531
+163.172.67.180 1 1 3571 20171222033616
+54.36.222.37 1 1 3571 20171218200843
+149.56.223.241 1 1 3571 20171228142727
+158.69.252.228 1 1 12314 20171209181851
+52.53.129.101 1 1 3571 20171203125146
+109.74.197.252 1 1 0 20171230032317
+198.50.200.129 1 1 3571 20171218085459
+185.220.101.21 1 1 3571 20171222130644
+93.115.95.206 1 1 3571 20171220094733
+204.79.180.18 0 1 3072 
+197.159.177.197 1 1 3571 20171220042054
+204.79.180.17 0 2 6273 
+204.79.180.15 0 2 23196 
+217.170.197.83 1 1 3571 20171230165314
+66.102.8.146 1 11 1002472 20171215180349
+204.194.29.4 1 1 3571 20171218182356
+185.38.14.171 1 1 3571 20171226092501
+213.252.140.118 1 1 3571 20171230024152
+195.22.127.96 1 1 3571 20171202121341
+185.220.101.12 1 1 3571 20171222121407
+185.220.101.13 1 1 3571 20171224042357
+128.31.0.13 1 1 3571 20171220124714
+87.118.116.12 1 1 3571 20171220114206
+104.218.63.75 1 1 3571 20171226154307
+204.79.180.1 0 1 600 
+178.171.78.97 1 1 3571 20171216113147
+93.115.95.205 1 1 3571 20171220052312
+176.126.252.11 1 1 3571 20171222124505
+204.79.180.10 0 2 7724 
+213.183.51.170 1 1 3571 20171226173806
+62.176.4.10 1 1 3571 20171228172530
+185.104.120.7 1 1 3571 20171224134657
+87.118.122.30 1 1 3571 20171224180413
+185.100.85.101 1 1 3571 20171218105504
+204.79.180.2 0 2 4886 
+185.72.244.24 1 1 3571 20171226101750
+178.171.31.23 1 1 3571 20171209164409
+178.79.170.83 1 1 0 20171230033423
+193.90.12.115 1 1 3571 20171226132903
+5.188.211.35 1 1 12314 20171227210658
+199.249.223.73 1 1 3571 20171220130458
+94.130.228.163 1 1 3571 20171230020136
+165.227.111.227 1 1 12314 20171202192309
+144.217.161.119 1 1 3571 20171220035116
+204.79.180.5 0 1 890 
+204.79.180.12 0 2 21930 
+109.69.67.17 1 1 3571 20171224192008
+173.211.111.111 1 1 3571 20171222045436
+185.31.172.234 1 1 3571 20171226091441
+165.227.105.146 1 1 12314 20171205192640
+37.187.89.212 1 1 3571 20171227053741
+164.132.51.91 1 1 3571 20171222032158
+158.46.167.135 1 1 3571 20171201235413
+204.79.180.13 0 3 36828 
+204.79.180.23 1 4 28762 20171210011514
+199.249.224.43 1 1 3571 20171226184231
+213.61.149.100 1 1 3571 20171226063008
+51.15.49.134 1 1 3571 20171218111355
+192.36.27.6 1 1 3571 20171224002233
+51.15.217.217 1 1 3571 20171222151529
+66.102.6.158 1 15 1881732 20171203221711
+54.185.223.244 1 1 3571 20171205062900
+78.109.23.1 1 1 3571 20171220005624
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20171201 1 1 3571 1
+20171202 5 5 26598 5
+20171203 7 73 6590707 5
+20171205 5 27 1935055 3
+20171206 1 1 12314 1
+20171207 1 1 3571 1
+20171208 11 11 133366 2
+20171209 3 3 19456 3
+20171210 2 24 155475 2
+20171213 2 2 7142 2
+20171214 7 9 92666 2
+20171215 5 49 4251322 4
+20171216 6 6 21426 3
+20171218 8 8 28568 8
+20171219 1 1 3571 1
+20171220 16 16 65879 15
+20171221 2 2 7142 2
+20171222 9 9 32139 9
+20171223 2 2 7142 2
+20171224 7 7 24997 7
+20171225 2 24 1919318 1
+20171226 10 10 35710 10
+20171227 4 4 40051 4
+20171228 10 10 52950 9
+20171229 2 2 24628 2
+20171230 5 5 10713 5
+20171231 1 1 3571 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 2
+0s-30s 107
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 110 516813 105 99
+/fonts/font-awesome/fonts/fontawesome-webfont.woff 4 286029 1 3
+/mt%20juliet/grass-cutting.html 2 24136 2 1
+/antioch/grass-cutting.html 2 24122 0 0
+/hendersonville/grass-cutting.html 2 24196 1 1
+/goodlettsville/grass-cutting.html 2 24210 0 0
+/fonts/font-awesome/fonts/fontawesome-webfont.eot 2 121488 1 2
+/joelton/grass-cutting.html 2 24116 0 1
+/nolensville/grass-cutting.html 1 12090 0 0
+/greenbrier/grass-cutting.html 1 12138 0 0
+/franklin/grass-cutting.html 1 12071 0 0
+/gallatin/grass-cutting.html 1 12067 0 0
+/brentwood/grass-cutting.html 1 12073 0 0
+/mail/contact_me.php 1 43 0 1
+/ridgetop/grass-cutting.html 1 12064 0 1
+/fonts/font-awesome/fonts/fontawesome-webfont.ttf 1 71696 0 1
+/bellevue/grass-cutting.html 1 12067 0 0
+END_SIDER
